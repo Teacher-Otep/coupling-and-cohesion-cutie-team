@@ -68,6 +68,36 @@ public void processOrder(String customerName, String coffeeType, double price) {
 
 ## Team Members
 
-- **Gilbert Fatiig** - 40% (Analysis, Design, Implementation)
-- **Samo Dinnao** - 30% (Implementation, Testing)
-- **Eirohnjan Balino** - 30% (Documentation, Code Review)
+**Gilbert Fatiig** - 40%
+- Led architecture design and refactoring strategy
+- Created Order.java and OrderProcessor.java
+- Implemented dependency injection pattern
+
+**Samo Dinnao** - 30%
+- Implemented TaxCalculator.java interface
+- Created DefaultTaxCalculator.java implementation
+- Implemented ReceiptFormatter.java class
+
+**Eirohnjan Balino** - 30%
+- Implemented OrderRepository.java interface
+- Created FileOrderRepository.java implementation
+- Wrote documentation and performed code review
+
+## Presentation
+
+The **PRESENTATION.md** file contains 7 slides covering:
+1. Title
+2. The Problem
+3. Our Solution
+4. Code Comparison
+5. Design Patterns
+6. Results
+7. Team Members & Contributions
+
+**To convert to PowerPoint:**
+1. Open PowerPoint, Google Slides, or LibreOffice Impress
+2. Create a new presentation
+3. Copy each slide content from PRESENTATION.md
+4. Add the code snippets from this README as visuals if needed
+
+**Presentation Date:** July 20, 2026

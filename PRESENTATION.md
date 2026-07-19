@@ -54,7 +54,19 @@ Benefits:
 
 ---
 
-## Slide 7: Team Members
-- **Gilbert Fatiig** - 40%
-- **Samo Dinnao** - 30%
-- **Eirohnjan Balino** - 30%
+## Slide 7: Team Members & Contributions
+
+**Gilbert Fatiig** - 40%
+- Led architecture design
+- Created Order and OrderProcessor classes
+- Implemented dependency injection pattern
+
+**Samo Dinnao** - 30%
+- Implemented TaxCalculator interface and DefaultTaxCalculator
+- Created ReceiptFormatter class
+- Testing and bug fixes
+
+**Eirohnjan Balino** - 30%
+- Implemented OrderRepository and FileOrderRepository
+- Created README documentation
+- Code review and refactoring
