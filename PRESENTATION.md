@@ -51,3 +51,10 @@ Benefits:
 - Cohesion: Low → High
 - Code Quality: Improved
 - Testability: Much Better
+
+---
+
+## Slide 7: Team Members
+- **[Member 1 Name]** - [Contribution %]
+- **[Member 2 Name]** - [Contribution %]
+- **[Member 3 Name]** - [Contribution %]

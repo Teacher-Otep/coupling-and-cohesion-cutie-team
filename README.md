@@ -66,14 +66,8 @@ public void processOrder(String customerName, String coffeeType, double price) {
 - Reduced coupling between components
 - Increased code cohesion
 
-## Running the Code
+## Team Members
 
-Clean version:
-```bash
-java com.coffeeshop.clean.Main
-```
-
-Naive version:
-```bash
-java com.coffeeshop.naive.Main
-```
+- **[Member 1 Name]** - [Contribution %]
+- **[Member 2 Name]** - [Contribution %]
+- **[Member 3 Name]** - [Contribution %]
