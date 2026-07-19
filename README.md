@@ -85,19 +85,24 @@ public void processOrder(String customerName, String coffeeType, double price) {
 
 ## Presentation
 
-The **PRESENTATION.md** file contains 7 slides covering:
-1. Title
-2. The Problem
-3. Our Solution
-4. Code Comparison
-5. Design Patterns
-6. Results
-7. Team Members & Contributions
+We have a **PRESENTATION.md** file with slide content, and a **create_presentation.py** script to generate the PowerPoint.
 
-**To convert to PowerPoint:**
-1. Open PowerPoint, Google Slides, or LibreOffice Impress
-2. Create a new presentation
-3. Copy each slide content from PRESENTATION.md
-4. Add the code snippets from this README as visuals if needed
+**To create the PowerPoint presentation:**
+
+1. Make sure Python is installed
+2. Install python-pptx library:
+   ```bash
+   pip install python-pptx
+   ```
+3. Run the Python script:
+   ```bash
+   python create_presentation.py
+   ```
+4. This will create **Presentation.pptx** - open it to view!
+
+**Or manually create in these tools:**
+- Microsoft PowerPoint
+- Google Slides
+- LibreOffice Impress
 
 **Presentation Date:** July 20, 2026
