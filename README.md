@@ -68,6 +68,6 @@ public void processOrder(String customerName, String coffeeType, double price) {
 
 ## Team Members
 
-- **[Member 1 Name]** - [Contribution %]
-- **[Member 2 Name]** - [Contribution %]
-- **[Member 3 Name]** - [Contribution %]
+- **Gilbert Fatiig** - 40% (Analysis, Design, Implementation)
+- **Samo Dinnao** - 30% (Implementation, Testing)
+- **Eirohnjan Balino** - 30% (Documentation, Code Review)

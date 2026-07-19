@@ -55,6 +55,6 @@ Benefits:
 ---
 
 ## Slide 7: Team Members
-- **[Member 1 Name]** - [Contribution %]
-- **[Member 2 Name]** - [Contribution %]
-- **[Member 3 Name]** - [Contribution %]
+- **Gilbert Fatiig** - 40%
+- **Samo Dinnao** - 30%
+- **Eirohnjan Balino** - 30%
